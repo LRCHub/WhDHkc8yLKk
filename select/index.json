@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "OAOA（現在就是永遠）",
+  "base_artist": "五月天",
+  "createdAt": "2026-03-13T18:11:35.948665Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OAOA (現在就是永遠) (Live)",
+      "artist": "五月天",
+      "has_synced": false,
+      "path": "select/01_OAOA_(現在就是永遠)_(Live)_五月天.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "OAOA(現在就是永遠)",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/02_OAOA(現在就是永遠)_五月天.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "OAOA(現在就是永遠)",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/03_OAOA(現在就是永遠)_五月天.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "OAOA(現在就是永遠)",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/04_OAOA(現在就是永遠)_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "OAOA (現在就是永遠)",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/05_OAOA_(現在就是永遠)_五月天.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "OAOA(現在就是永遠) - Live",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/06_OAOA(現在就是永遠)_-_Live_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "OAOA(現在就是永遠)",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/07_OAOA(現在就是永遠)_五月天.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "OAOA(現在就是永遠)",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/08_OAOA(現在就是永遠)_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "OAOA(現在就是永遠)",
+      "artist": "Mayday 五月天",
+      "has_synced": true,
+      "path": "select/09_OAOA(現在就是永遠)_Mayday_五月天.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "OAOA (現在就是永遠)",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/10_OAOA_(現在就是永遠)_五月天.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OAOA(現在就是永遠)",
+      "artist": "五月天",
+      "has_synced": false,
+      "path": "select/pl_01_OAOA(現在就是永遠)_五月天.txt"
+    }
+  ]
+}
